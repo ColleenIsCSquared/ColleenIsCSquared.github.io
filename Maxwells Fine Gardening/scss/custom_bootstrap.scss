@@ -1,0 +1,12 @@
+//override defaults
+$theme-colors: (
+  "primary": #113c4a,
+  "dark": #265a5c
+);
+
+
+
+
+//import bootstrap
+
+@import "../bootstrap-4.4.1/scss/bootstrap";
